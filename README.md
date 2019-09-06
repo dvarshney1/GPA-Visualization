@@ -1,4 +1,4 @@
-# Enrollment Increase in Each major in UIUC from th epast 30 years
+# Average GPA of CS courses at UIUC 
 
 <br> To view the viaualization on your local machine:
 ```
