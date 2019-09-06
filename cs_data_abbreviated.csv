@@ -1,0 +1,364 @@
+Course Title,Number,Term,Year,GPA
+Intro Computing: Engrg & Sci,101,fa,2010,3.1105591397849466
+Intro Computing: Engrg & Sci,101,sp,2010,3.203274725274725
+Intro Computing: Engrg & Sci,101,fa,2011,3.257813852813853
+Intro Computing: Engrg & Sci,101,sp,2011,3.3913713080168773
+Intro Computing: Engrg & Sci,101,fa,2012,3.0722271714922056
+Intro Computing: Engrg & Sci,101,fa,2013,2.9011583011583006
+Intro Computing: Engrg & Sci,101,sp,2013,3.1853295668549904
+Intro Computing: Engrg & Sci,101,fa,2014,2.633753753753753
+Intro Computing: Engrg & Sci,101,sp,2014,3.0385028790786945
+Intro Computing: Engrg & Sci,101,fa,2015,3.1129538904899134
+Intro Computing: Engrg & Sci,101,sp,2015,2.949955686853767
+Intro Computing: Engrg & Sci,101,fa,2016,3.1924193548387096
+Intro Computing: Engrg & Sci,101,sp,2016,3.4095203488372094
+Intro Computing: Engrg & Sci,101,fa,2017,3.705477239353891
+Intro Computing: Engrg & Sci,101,sp,2017,3.545570776255707
+Intro Computing: Engrg & Sci,101,fa,2018,3.5764880952380946
+Intro Computing: Engrg & Sci,101,sp,2018,3.663962264150944
+Intro Computing: Non-Tech,105,fa,2010,3.032080783353733
+Intro Computing: Non-Tech,105,sp,2010,3.0646130030959755
+Intro Computing: Non-Tech,105,fa,2011,3.170072115384615
+Intro Computing: Non-Tech,105,sp,2011,2.9474804687500007
+Intro Computing: Non-Tech,105,fa,2012,3.317116060961313
+Intro Computing: Non-Tech,105,fa,2013,3.196197916666666
+Intro Computing: Non-Tech,105,sp,2013,3.3940809443507587
+Intro Computing: Non-Tech,105,fa,2014,3.177715311004785
+Intro Computing: Non-Tech,105,sp,2014,3.1484149184149177
+Intro Computing: Non-Tech,105,fa,2015,3.5726553672316386
+Intro Computing: Non-Tech,105,sp,2015,3.2485846867749424
+Intro Computing: Non-Tech,105,fa,2016,3.5112878787878783
+Intro Computing: Non-Tech,105,sp,2016,3.6328346456692913
+Intro Computing: Non-Tech,105,fa,2017,3.542954545454545
+Intro Computing: Non-Tech,105,sp,2017,3.4585110294117656
+Intro Computing: Non-Tech,105,fa,2018,3.33152
+Intro Computing: Non-Tech,105,sp,2018,3.238311444652908
+Intro to Computer Science,125,fa,2010,3.3416778523489934
+Intro to Computer Science,125,sp,2010,3.051271186440678
+Intro to Computer Science,125,fa,2011,3.2526647564469915
+Intro to Computer Science,125,sp,2011,3.113280423280423
+Intro to Computer Science,125,fa,2012,3.0298933333333333
+Intro to Computer Science,125,fa,2013,3.1127093596059106
+Intro to Computer Science,125,sp,2013,3.1595575221238943
+Intro to Computer Science,125,fa,2014,3.6082697201017817
+Intro to Computer Science,125,sp,2014,3.266888297872341
+Intro to Computer Science,125,fa,2015,3.42077057793345
+Intro to Computer Science,125,sp,2015,3.3533391915641477
+Intro to Computer Science,125,fa,2016,3.412640545144804
+Intro to Computer Science,125,sp,2016,3.4239076376554176
+Intro to Computer Science,125,fa,2017,3.1920467836257305
+Intro to Computer Science,125,sp,2017,3.239718045112782
+Intro to Computer Science,125,fa,2018,3.63474552957359
+Intro to Computer Science,125,sp,2018,3.4367070217917672
+Software Design Studio,126,fa,2016,3.754705882352941
+Software Design Studio,126,fa,2017,3.3305405405405404
+Software Design Studio,126,sp,2017,3.313218390804597
+Software Design Studio,126,fa,2018,3.4701818181818185
+Software Design Studio,126,sp,2018,3.523053435114504
+Discrete Structures,173,fa,2010,2.4106666666666667
+Discrete Structures,173,sp,2010,2.58939226519337
+Discrete Structures,173,fa,2011,2.7344162436548225
+Discrete Structures,173,sp,2011,2.4190592334494774
+Discrete Structures,173,fa,2012,2.760308988764045
+Discrete Structures,173,sp,2012,2.9676666666666667
+Discrete Structures,173,fa,2013,2.7503746397694524
+Discrete Structures,173,sp,2013,2.896605744125327
+Discrete Structures,173,fa,2014,2.9274999999999998
+Discrete Structures,173,sp,2014,2.865923261390887
+Discrete Structures,173,fa,2015,3.111015625
+Discrete Structures,173,sp,2015,3.139659090909091
+Discrete Structures,173,fa,2016,3.0157979797979797
+Discrete Structures,173,sp,2016,3.098403193612775
+Discrete Structures,173,fa,2017,3.035402298850575
+Discrete Structures,173,sp,2017,3.1609187279151945
+Discrete Structures,173,fa,2018,3.1497567567567564
+Discrete Structures,173,sp,2018,3.0814538310412574
+Freshman Honors,196,fa,2010,3.2857142857142856
+Freshman Honors,196,sp,2010,3.9166666666666665
+Freshman Honors,196,fa,2011,3.774516129032258
+Freshman Honors,196,sp,2011,3.667297297297297
+Freshman Honors,196,fa,2012,3.699230769230769
+Freshman Honors,196,fa,2013,3.971830985915493
+Freshman Honors,196,sp,2013,3.463064516129032
+Freshman Honors,196,fa,2014,3.8723270440251576
+Freshman Honors,196,sp,2014,3.8087962962962965
+Freshman Honors,196,fa,2015,3.783313609467456
+Freshman Honors,196,sp,2015,3.787012195121951
+Freshman Honors,196,fa,2016,3.87556338028169
+Freshman Honors,196,sp,2016,3.6725641025641025
+Freshman Honors,196,fa,2017,3.733692307692308
+Freshman Honors,196,sp,2017,3.660727272727273
+Freshman Honors,196,fa,2018,3.710258620689655
+Freshman Honors,196,sp,2018,3.7298437499999997
+Ethical & Professional Issues,210,fa,2010,3.8526315789473684
+Ethical & Professional Issues,210,sp,2010,3.6065454545454543
+Ethical & Professional Issues,210,fa,2011,3.7638541666666665
+Ethical & Professional Issues,210,sp,2011,3.650847457627118
+Ethical & Professional Issues,210,fa,2012,3.6534374999999994
+Ethical & Professional Issues,210,sp,2013,3.3858426966292132
+Ethical & Professional Issues,210,fa,2014,3.5145108695652167
+Ethical & Professional Issues,210,sp,2014,3.3346408839779
+Ethical & Professional Issues,210,fa,2015,3.6544565217391307
+Ethical & Professional Issues,210,sp,2015,3.431511627906977
+Ethical & Professional Issues,210,fa,2016,3.735463917525773
+Ethical & Professional Issues,210,sp,2016,3.4251851851851853
+Ethical & Professional Issues,210,fa,2017,3.639107142857142
+Ethical & Professional Issues,210,sp,2017,3.769125
+Ethical & Professional Issues,210,fa,2018,3.8462068965517244
+Ethical & Professional Issues,210,sp,2018,3.81151724137931
+Data Structures,225,fa,2010,2.7943181818181815
+Data Structures,225,sp,2010,2.5489542483660133
+Data Structures,225,fa,2011,2.9744923076923073
+Data Structures,225,sp,2011,3.0521551724137934
+Data Structures,225,fa,2012,3.003018867924528
+Data Structures,225,sp,2012,2.6003636363636367
+Data Structures,225,fa,2013,3.1268627450980393
+Data Structures,225,sp,2013,2.851329923273657
+Data Structures,225,fa,2014,2.840608519269777
+Data Structures,225,sp,2014,2.936912878787879
+Data Structures,225,fa,2015,3.0450850340136055
+Data Structures,225,sp,2015,3.2442752293577986
+Data Structures,225,fa,2016,3.2407417974322392
+Data Structures,225,sp,2016,3.1431023622047243
+Data Structures,225,fa,2017,3.053664772727273
+Data Structures,225,sp,2017,3.0913153961136017
+Data Structures,225,fa,2018,3.4170731707317064
+Data Structures,225,sp,2018,3.1875288303130147
+Computer Architecture,233,fa,2014,2.8174111675126903
+Computer Architecture,233,fa,2015,2.910702875399361
+Computer Architecture,233,sp,2015,2.7092971246006394
+Computer Architecture,233,fa,2016,2.997379679144385
+Computer Architecture,233,sp,2016,2.896388888888889
+Computer Architecture,233,fa,2017,3.083106796116505
+Computer Architecture,233,sp,2017,2.8051052631578943
+Computer Architecture,233,fa,2018,3.1757879656160464
+Computer Architecture,233,sp,2018,3.105022831050228
+System Programming,241,fa,2010,2.414881889763779
+System Programming,241,sp,2010,2.7184558823529414
+System Programming,241,fa,2011,2.356101694915254
+System Programming,241,sp,2011,2.3015555555555554
+System Programming,241,fa,2012,2.2484967320261435
+System Programming,241,sp,2012,2.448846153846154
+System Programming,241,fa,2013,2.577790697674419
+System Programming,241,sp,2013,2.496774193548387
+System Programming,241,fa,2014,2.7231288343558284
+System Programming,241,sp,2014,2.7223333333333333
+System Programming,241,fa,2015,2.6916184971098267
+System Programming,241,sp,2015,2.8034196891191714
+System Programming,241,fa,2016,2.926258503401361
+System Programming,241,sp,2016,2.7073170731707314
+System Programming,241,fa,2017,2.6792638036809815
+System Programming,241,sp,2017,2.5810122699386504
+System Programming,241,fa,2018,2.660299625468165
+System Programming,241,sp,2018,2.8177732793522265
+Programming Studio,242,fa,2010,3.5685606060606063
+Programming Studio,242,sp,2010,3.8220792079207926
+Programming Studio,242,fa,2011,3.5762711864406787
+Programming Studio,242,sp,2011,3.395102040816327
+Programming Studio,242,fa,2012,3.755777777777778
+Programming Studio,242,fa,2013,3.3245999999999993
+Programming Studio,242,sp,2013,3.7496273291925464
+Programming Studio,242,fa,2014,3.250170454545455
+Programming Studio,242,sp,2014,3.5567613636363644
+Programming Studio,242,fa,2015,3.396742857142857
+Programming Studio,242,sp,2015,3.2803086419753082
+Programming Studio,242,fa,2016,3.4096491228070174
+Programming Studio,242,sp,2016,3.3660606060606053
+Programming Studio,242,fa,2017,3.31103448275862
+Programming Studio,242,sp,2017,3.3499999999999996
+Programming Studio,242,fa,2018,3.3086854460093904
+Programming Studio,242,sp,2018,3.216483516483517
+Honors Course,296,fa,2012,3.8776666666666673
+Honors Course,296,fa,2013,3.8028125
+Honors Course,296,sp,2013,3.1643076923076925
+Honors Course,296,fa,2014,3.359702970297029
+Honors Course,296,sp,2014,3.698666666666667
+Honors Course,296,fa,2015,3.77
+Honors Course,296,sp,2015,3.4824468085106384
+Honors Course,296,fa,2016,3.7694871794871796
+Honors Course,296,sp,2016,3.7971264367816087
+Honors Course,296,fa,2017,3.70828125
+Honors Course,296,sp,2017,3.9408411214953274
+Honors Course,296,fa,2018,3.825365853658536
+Honors Course,296,sp,2018,3.436153846153846
+Numerical Methods I,357,fa,2010,2.5606730769230768
+Numerical Methods I,357,sp,2010,3.317945205479452
+Numerical Methods I,357,fa,2011,3.129151515151515
+Numerical Methods I,357,sp,2011,3.1524999999999994
+Numerical Methods I,357,fa,2012,3.030227272727273
+Numerical Methods I,357,fa,2013,3.2062903225806454
+Numerical Methods I,357,sp,2013,3.462307692307693
+Numerical Methods I,357,fa,2014,2.9731838565022417
+Numerical Methods I,357,sp,2014,2.793131313131313
+Numerical Methods I,357,fa,2015,3.1076262626262627
+Numerical Methods I,357,sp,2015,2.9765757575757577
+Numerical Methods I,357,fa,2016,3.1397233201581023
+Numerical Methods I,357,sp,2016,2.6852747252747253
+Numerical Methods I,357,fa,2017,3.0
+Numerical Methods I,357,sp,2017,2.993856749311295
+Numerical Methods I,357,fa,2018,3.101505102040816
+Numerical Methods I,357,sp,2018,3.0545789473684213
+Prob & Stat for Computer Sci,361,fa,2016,3.373333333333333
+Prob & Stat for Computer Sci,361,fa,2017,3.505142857142857
+Prob & Stat for Computer Sci,361,sp,2017,3.4123437500000002
+Prob & Stat for Computer Sci,361,fa,2018,2.939740259740259
+Prob & Stat for Computer Sci,361,sp,2018,3.1959999999999997
+Theory of Computation,373,fa,2010,3.024437086092715
+Theory of Computation,373,sp,2010,2.5745238095238094
+Theory of Computation,373,fa,2011,2.636549295774648
+Theory of Computation,373,sp,2011,2.873238095238096
+Theory of Computation,373,fa,2012,3.2306432748538008
+Theory of Computation,373,sp,2012,3.2051282051282053
+Theory of Computation,373,fa,2013,3.1966666666666668
+Theory of Computation,373,sp,2013,3.2269060773480667
+Theory of Computation,373,sp,2014,2.8418881118881116
+Intro to Algs & Models of Comp,374,fa,2016,2.5036523929471035
+Intro to Algs & Models of Comp,374,fa,2017,2.5554411764705884
+Intro to Algs & Models of Comp,374,sp,2017,2.766397058823529
+Intro to Algs & Models of Comp,374,fa,2018,2.69860310421286
+Intro to Algs & Models of Comp,374,sp,2018,2.6555204460966544
+Database Systems,411,fa,2010,3.2296
+Database Systems,411,sp,2010,3.061018518518518
+Database Systems,411,fa,2011,3.0973809523809526
+Database Systems,411,sp,2011,3.13125
+Database Systems,411,fa,2012,3.199042553191489
+Database Systems,411,sp,2012,3.536785714285714
+Database Systems,411,fa,2013,2.7585051546391743
+Database Systems,411,sp,2013,3.5827868852459015
+Database Systems,411,fa,2014,3.2232124352331613
+Database Systems,411,sp,2014,3.5644615384615386
+Database Systems,411,fa,2015,3.533247422680412
+Database Systems,411,sp,2015,3.1446700507614214
+Database Systems,411,fa,2016,2.9605825242718447
+Database Systems,411,sp,2016,3.4722631578947367
+Database Systems,411,fa,2017,2.6530281690140844
+Database Systems,411,sp,2017,3.5036458333333336
+Database Systems,411,fa,2018,3.5575897435897437
+Database Systems,411,sp,2018,3.3840225563909767
+Introduction to Data Mining,412,fa,2010,3.273617021276596
+Introduction to Data Mining,412,fa,2011,3.5505833333333334
+Introduction to Data Mining,412,fa,2012,3.4117721518987336
+Introduction to Data Mining,412,fa,2013,3.313679653679654
+Introduction to Data Mining,412,fa,2014,3.0583908045977
+Introduction to Data Mining,412,fa,2015,2.8161956521739127
+Introduction to Data Mining,412,fa,2016,3.207564766839378
+Introduction to Data Mining,412,sp,2016,3.2644444444444445
+Introduction to Data Mining,412,fa,2017,3.0450837988826818
+Introduction to Data Mining,412,sp,2017,3.6395854922279796
+Introduction to Data Mining,412,fa,2018,3.5171875
+Introduction to Data Mining,412,sp,2018,3.297206477732794
+Interactive Computer Graphics,418,fa,2010,3.436122448979592
+Interactive Computer Graphics,418,sp,2010,3.5959574468085105
+Interactive Computer Graphics,418,fa,2011,3.3207999999999998
+Interactive Computer Graphics,418,sp,2011,3.4063636363636363
+Interactive Computer Graphics,418,fa,2012,3.1624999999999996
+Interactive Computer Graphics,418,fa,2013,3.287471264367816
+Interactive Computer Graphics,418,sp,2013,3.3577551020408167
+Interactive Computer Graphics,418,fa,2014,3.4268382352941176
+Interactive Computer Graphics,418,sp,2014,3.4361797752808987
+Interactive Computer Graphics,418,fa,2015,3.2104242424242426
+Interactive Computer Graphics,418,sp,2015,3.2750588235294122
+Interactive Computer Graphics,418,fa,2016,2.9509876543209876
+Interactive Computer Graphics,418,sp,2016,3.5537724550898213
+Interactive Computer Graphics,418,fa,2017,3.233076923076923
+Interactive Computer Graphics,418,sp,2017,2.8533128834355828
+Interactive Computer Graphics,418,fa,2018,3.441616161616162
+Interactive Computer Graphics,418,sp,2018,2.9448333333333334
+Progrmg Languages & Compilers,421,fa,2010,3.0698901098901095
+Progrmg Languages & Compilers,421,sp,2010,3.129
+Progrmg Languages & Compilers,421,fa,2011,3.131538461538462
+Progrmg Languages & Compilers,421,sp,2011,3.039485294117647
+Progrmg Languages & Compilers,421,fa,2012,3.050869565217391
+Progrmg Languages & Compilers,421,sp,2012,2.6833333333333336
+Progrmg Languages & Compilers,421,fa,2013,3.054146341463415
+Progrmg Languages & Compilers,421,sp,2013,3.191066666666667
+Progrmg Languages & Compilers,421,fa,2014,3.162233009708738
+Progrmg Languages & Compilers,421,sp,2014,3.03927374301676
+Progrmg Languages & Compilers,421,sp,2015,3.3918072289156624
+Progrmg Languages & Compilers,421,fa,2016,3.2051479289940827
+Progrmg Languages & Compilers,421,sp,2016,3.53293172690763
+Progrmg Languages & Compilers,421,fa,2017,3.510202429149797
+Progrmg Languages & Compilers,421,sp,2017,3.4443006993006993
+Progrmg Languages & Compilers,421,fa,2018,3.560314136125654
+Progrmg Languages & Compilers,421,sp,2018,3.520503597122302
+Distributed Systems,425,fa,2010,3.268
+Distributed Systems,425,sp,2010,2.559117647058823
+Distributed Systems,425,fa,2011,2.605581395348837
+Distributed Systems,425,sp,2011,3.418837209302325
+Distributed Systems,425,fa,2012,3.588026315789474
+Distributed Systems,425,sp,2012,3.473333333333333
+Distributed Systems,425,fa,2013,3.6741584158415845
+Distributed Systems,425,sp,2013,3.0996875000000004
+Distributed Systems,425,fa,2014,3.3539880952380954
+Distributed Systems,425,sp,2014,3.2553333333333327
+Distributed Systems,425,fa,2015,3.4982653061224487
+Distributed Systems,425,sp,2015,3.0025000000000004
+Distributed Systems,425,fa,2016,3.346747572815534
+Distributed Systems,425,sp,2016,3.097151515151515
+Distributed Systems,425,fa,2017,3.254365079365079
+Distributed Systems,425,sp,2017,2.938630952380952
+Distributed Systems,425,fa,2018,3.40280701754386
+Distributed Systems,425,sp,2018,3.2126696832579182
+Communication Networks,438,fa,2010,3.231346153846154
+Communication Networks,438,sp,2010,2.5321621621621624
+Communication Networks,438,sp,2011,2.571714285714286
+Communication Networks,438,fa,2012,3.0374603174603174
+Communication Networks,438,fa,2013,3.091547619047619
+Communication Networks,438,sp,2013,2.681594202898551
+Communication Networks,438,fa,2014,3.575131578947368
+Communication Networks,438,sp,2014,2.5569999999999995
+Communication Networks,438,fa,2015,3.605632183908046
+Communication Networks,438,sp,2015,2.482553191489362
+Communication Networks,438,fa,2016,2.617530864197531
+Communication Networks,438,sp,2016,2.666867469879518
+Communication Networks,438,fa,2017,3.390987654320987
+Communication Networks,438,sp,2017,2.727228915662651
+Communication Networks,438,fa,2018,3.439009009009009
+Communication Networks,438,sp,2018,2.3753124999999997
+Artificial Intelligence,440,fa,2010,2.887384615384616
+Artificial Intelligence,440,sp,2010,2.9900000000000007
+Artificial Intelligence,440,fa,2011,3.0307692307692307
+Artificial Intelligence,440,sp,2011,2.9092391304347824
+Artificial Intelligence,440,fa,2012,3.173090909090909
+Artificial Intelligence,440,fa,2013,3.2280645161290322
+Artificial Intelligence,440,sp,2013,2.83
+Artificial Intelligence,440,fa,2014,3.277310924369748
+Artificial Intelligence,440,sp,2014,2.95328125
+Artificial Intelligence,440,fa,2015,3.2004494382022464
+Artificial Intelligence,440,sp,2015,3.136964285714286
+Artificial Intelligence,440,fa,2016,3.146996197718631
+Artificial Intelligence,440,sp,2016,3.055214285714286
+Artificial Intelligence,440,fa,2017,3.2185906040268457
+Artificial Intelligence,440,sp,2017,2.990119760479042
+Artificial Intelligence,440,fa,2018,3.336173285198556
+Artificial Intelligence,440,sp,2018,3.3914838709677424
+Computer Security I,461,fa,2010,3.2167441860465114
+Computer Security I,461,sp,2010,3.0140277777777778
+Computer Security I,461,fa,2011,3.002627118644068
+Computer Security I,461,fa,2012,2.9773154362416108
+Computer Security I,461,fa,2013,3.1337894736842102
+Computer Security I,461,sp,2013,3.0367073170731707
+Computer Security I,461,fa,2014,3.5564673913043485
+Computer Security I,461,sp,2014,2.946086956521739
+Computer Security I,461,fa,2015,2.9000666666666666
+Computer Security I,461,sp,2015,2.99184
+Computer Security I,461,fa,2016,2.9455345911949684
+Computer Security I,461,sp,2016,2.8619727891156463
+Computer Security I,461,fa,2017,3.3722897196261687
+Computer Security I,461,sp,2017,2.9536708860759493
+Computer Security I,461,fa,2018,3.341411764705882
+Computer Security I,461,sp,2018,2.8530630630630633
+User Interface Design,465,fa,2010,3.241489361702127
+User Interface Design,465,fa,2011,3.068409090909091
+User Interface Design,465,fa,2012,3.0002040816326527
+User Interface Design,465,fa,2013,3.4563333333333333
+User Interface Design,465,sp,2013,3.1482716049382717
+User Interface Design,465,fa,2014,3.020561797752809
+User Interface Design,465,fa,2015,3.0720967741935477
+User Interface Design,465,sp,2015,2.9759333333333338
+User Interface Design,465,fa,2016,3.065297619047619
+User Interface Design,465,sp,2016,3.4193714285714285
+User Interface Design,465,fa,2017,3.0664534883720926
+User Interface Design,465,sp,2017,3.3600555555555554
+User Interface Design,465,fa,2018,3.3750769230769224
+User Interface Design,465,sp,2018,3.31224358974359
